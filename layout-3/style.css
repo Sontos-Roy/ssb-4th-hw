@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    min-height: 50px;
+    background-color: blueviolet;
+}
+.container{
+    min-height: 600px;
+    background: brown;
+}
+footer .part-1, .part-2{
+    min-height: 200px;
+    float: left;
+}
